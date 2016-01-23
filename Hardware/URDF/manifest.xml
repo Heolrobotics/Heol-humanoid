@@ -1,0 +1,6 @@
+<package>
+  <description brief="Heol_humanoid">Heol_humanoid</description>
+  <depend package="gazebo" />
+  <author>me</author>
+  <license>BSD</license>
+</package>

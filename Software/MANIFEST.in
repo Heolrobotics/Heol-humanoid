@@ -1,0 +1,2 @@
+include heol_humanoid/configuration/*.json
+include heol_humanoid/vrep-scene/*.ttt

@@ -1,0 +1,18 @@
+[submodule "Hardware/Heol-torso"]
+	path = Hardware/Heol-torso
+	url = https://github.com/Heolrobotics/Heol-torso.git
+[submodule "Hardware/Heol-lower_limbs"]
+	path = Hardware/Heol-lower_limbs
+	url = https://github.com/Heolrobotics/Heol-lower_limbs.git
+[submodule "Hardware/Heol-head"]
+	path = Hardware/Heol-head
+	url = https://github.com/Heolrobotics/Heol-head.git
+[submodule "Hardware/Electronics"]
+	path = Hardware/Electronics
+	url = https://github.com/Heolrobotics/Electronics.git
+[submodule "Hardware/Heol-upper_limbs"]
+	path = Hardware/Heol-upper_limbs
+	url = https://github.com/Heolrobotics/Heol-upper_limbs.git
+[submodule "Hardware/Heol-components"]
+	path = Hardware/Heol-components
+	url = https://github.com/Heolrobotics/Heol-components.git
